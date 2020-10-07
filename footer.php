@@ -8,6 +8,7 @@
       </a>
       All Rights Reserved.
     </p>
+    
   </footer>
   <?php
     // Similar to wp_head(), but for footer scripts
